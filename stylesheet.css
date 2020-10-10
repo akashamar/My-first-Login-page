@@ -1,0 +1,138 @@
+body{color:maroon; font-weight: bold;
+background-color: coral;}
+    h1 {background-color:blue; border:2px solid red;
+    text-align: center;}
+    h1{color: yellow;
+    text-align: center;}
+    .yellow{
+        color:#b6008e; 
+        line-height: 2em; 
+        border-radius: 15px;
+        background-color: #ffebcd;
+    padding: 20px; 
+    border-style: solid; 
+    border-width: 3.5px;
+ }
+    .akash{color:#cf1c05; line-height: 2em; background-color: blanchedalmond;
+        padding: 20px;
+        border-radius: 20px;
+        background-image: url(tulunad.jpg);
+         border-style: solid; border-width: 3.5px; margin-left: 300px; margin-right: 300px; margin-top: 35px; margin-bottom: 100px;}
+.imagec{display:block; border-radius: 12px; margin-left: auto; margin-right: auto; margin-top:-85px; padding: autos;
+    border-style:solid; 
+    background-color:black; 
+    padding: 3px;
+    border-width: 5px; border-color:rgb(233, 4, 34) ;
+}        
+    video:hover{
+        cursor:url("iconv.png"),default;
+    }
+    
+    .highlighter{
+        background-color: rgb(139, 246, 38);
+    }
+    .krippykush{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .krip{width: 300px;
+         margin-left:30px;
+         background-color: rgb(251, 84, 18);
+border-color: darkblue;}
+.kus{width: 270px; 
+    background-color: rgb(251, 84, 18);
+border-color: darkblue;}
+a:hover{
+    color: darkred;
+}
+#wwe{
+    background-color: green;
+    border-radius: 6px;
+    color: ivory;
+    padding: 12px;
+    margin: 20px;
+}
+#program{
+    background-color: green;
+    border-radius: 6px;
+    color: ivory;
+    padding: 12px;
+    margin: 20px;
+}
+#car{
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+.minicar{
+    float: left;
+    margin-bottom: 300px;
+    border-radius: 15px;
+}
+#lh{
+    line-height: 25px;
+}
+#division1{
+    display: block;
+    background-color: rgb(205, 194, 235);
+    border-color: rgb(8, 151, 32);
+}
+ul{ position:absolute;left: 40%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ul li a {
+    text-decoration: none;
+ background-color: rgb(2, 6, 250);
+ color: cornsilk;
+ display: block;
+ padding-right: 10px;
+ padding-left: 10px;
+ margin: 5px;
+ padding: 10px;
+ border: 2px solid rgb(255, 0, 0);
+ text-align: center;
+}
+ul li a:hover{
+    background-color:silver;
+    color:rgb(126, 0, 158);
+}
+#frame{
+    display:table;
+    color: rgb(0, 0, 0);
+    background-color: lightcoral;
+    border: 2px solid black;
+    padding: 15px;
+    padding-right: 20px;
+    padding-top: 30px;
+    background:linear-gradient(red,yellow)
+}
+.row{
+    display: table-row;
+}
+.row label{
+display: table-cell;
+padding: 2;
+text-align:right;
+}
+.row input{
+    display: table-cell;
+    padding: 2px;
+}
+.shado{
+    text:bold;
+    background-color:coral;
+    color: rgb(38, 133, 0);
+    border:none;
+    font-size: 60px;
+    padding-right: 50px;
+    text-shadow: 3px 3px 5px rgba(21, 21, 190, 0.589);
+    text-shadow: 5px 5px 8px rgb(97, 8, 170);
+    text-shadow: 7px 7px 8px rgb(121, 16, 131);
+}
+.move{
+    padding-left: 25%;
+}
